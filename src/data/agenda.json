@@ -1,0 +1,487 @@
+{
+  "23": [
+    {
+      "main": "yes",
+      "start": "10:00",
+      "end": "11:00",
+      "title": "Opening session",
+      "join": "https://zoom.us/j/92454490504"
+    },
+    {
+      "main": "yes",
+      "start": "11:00",
+      "end": "11:30",
+      "title": "Prizes and Contests",
+      "join": "https://zoom.us/j/92454490504"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "The Future of Language: Augmenting AI and Humans",
+      "title": "Talk",
+      "start": "12:00",
+      "end": "13:00",
+      "animator1": "Paulo Dimas, Unbabel",
+      "day": 0,
+      "join": "https://zoom.us/j/92197960814",
+      "activityID": "ai",
+      "speaker1ID": "paulodimas",
+      "description": "In 1998, 80% of the internet was in English. In 2018 it is only 20%. Nowadays, software programs and social media platforms are often available in 30 to 100 languages. That doesn't sound too bad until we realize that there are more than 6,000 languages on the planet. This means that the language of business is diversifying and companies must be multilingual, otherwise, the language will become a barrier for global enterprises and their growth. How do we create more accessibility and mind share? Pulling from enterprise use cases, Paulo will explain how AI can break these language roadblocks without replacing humans, but combining AI technology with real humans and their authenticity, and what this means for global companies in the future."
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Como escolher o primeiro emprego?",
+      "title": "Talk",
+      "start": "14:00",
+      "end": "15:00",
+      "animator1": "Tiago Santos, Everis",
+      "day": 0,
+      "join": "https://zoom.us/j/99899332240",
+      "activityID": "primeiroemprego",
+      "speaker1ID": "tiagosantos",
+      "description": "Manager da área de Seguros na everis, Tiago Palas Santos, irá realizar uma apresentação sobre a empresa, bem como partilhar o seu percurso e desafios profissionais. Neste contexto, iremos também mencionar alguns projetos que desenvolvemos para que nos possam conhecer melhor."
+    },
+    {
+      "main": "yes",
+      "bigTitle": "We Can Do It!",
+      "title": "Talk",
+      "start": "15:00",
+      "end": "16:00",
+      "animator1": "João Oliveira, Tonic App",
+      "day": 0,
+      "join": "https://zoom.us/j/93150742522",
+      "activityID": "wecandoit",
+      "speaker1ID": "joaooliveira",
+      "description": "Numa indústria até há uns anos enormemente desproporcional no rácio de profissionais por género, o papel das mulheres na indústria de tecnologia e software é cada vez mais relevante e prometedor em economias que as tecnologias são parte da visão estratégica e aposta no futuro de um país."
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Accenture",
+      "title": "Pitch",
+      "start": "16:30",
+      "end": "16:45",
+      "join": "https://zoom.us/j/99122215839"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Capgemini",
+      "title": "Pitch",
+      "start": "16:45",
+      "end": "17:00",
+      "join": "https://zoom.us/j/95509320933"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Developing Tasker - Desafios de um solo Developer",
+      "title": "Talk",
+      "start": "17:00",
+      "end": "18:00",
+      "animator1": "João Dias, Tasker",
+      "day": 0,
+      "join": "https://zoom.us/j/91280448337",
+      "activityID": "developer",
+      "speaker1ID": "joaodias",
+      "description": "Como é ser um developer encarregue da app de automatização mais popular no Android? Nesta palestra, falamos com João Dias, o proprietário e developer da app Tasker, uma referência no mundo da automação há mais de uma década com mais de 1.500.000 de instalações. Munido de uma perspetiva diferente e incomum do mundo de Android development, vamos explorar como é ser um developer independente de sucesso, os desafios, as vitórias, o bom e o mau que acompanha a responsabilidade de gerir todo o ecossistema Tasker."
+    },
+    {
+      "bigTitle": "CS:GO Tournament",
+      "title": "Activity",
+      "start": "21:00",
+      "end": "23:00"
+    },
+    {
+      "bigTitle": "Chess Tournament",
+      "title": "Activity",
+      "start": "21:00",
+      "end": "23:00"
+    }
+  ],
+  "24": [
+    {
+      "start": "9:30",
+      "end": "11:30",
+      "bigTitle": "Cybersecurity @everis - top 10 OWASP vulnerabilities",
+      "title": "Workshop Everis",
+      "animator1": "Mauro Almeida",
+      "animator2": "Ricardo Gomes",
+      "day": 1,
+      "join": "https://www.eventbrite.pt/e/142305384235",
+      "activityID": "cybersecurity",
+      "speaker1ID": "mauroalmeida",
+      "speaker2ID": "ricardogomes",
+      "description": "Neste workshop, será apresentada a área de segurança de informação e cibersegurança da everis Portugal, com breve descrição do que é trabalhar na área da cibersegurança em Portugal. De seguida, um dos nossos lead architects irá falar das top 10 vulnerabilidades da OWASP, demonstrando como estas vulnerabilidades podem ser exploradas e como os programadores podem prevenir este tipo de ataques."
+    },
+    {
+      "start": "10",
+      "end": "11:30",
+      "bigTitle": "Testes para Futuros Engenheiros de Software",
+      "title": "Workshop Subvisual",
+      "animator1": "Pedro Costa",
+      "day": 1,
+      "join": "https://www.eventbrite.pt/e/142305783429",
+      "activityID": "testes",
+      "speaker1ID": "pedrocosta",
+      "description": "Testes são a base da engenharia aplicada à criação de software. Neste workshop iremos analisar e experimentar diferentes tipos de testes e o seu papel na produção de produtos digitais de qualidade. Usaremos JavaScript e várias ferramentas do respectivo ecossistema. É necessário computador com: Ambiente Node.js; Terminal (WSL ou máquina virtual em Windows); Editor de texto para programação (VS Code recomendado); e browser Firefox, Chrome, ou derivados."
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Coffee Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "(don't) use vim",
+      "title": "Talk",
+      "start": "12:00",
+      "end": "13:00",
+      "animator1": "Miguel Palhas, Subvisual",
+      "day": 1,
+      "join": "https://zoom.us/j/92009060946",
+      "activityID": "vim",
+      "speaker1ID": "miguelpalhas",
+      "description": "A (mostly improvised) buffet of things you might be able to do to make your life easier when writing code. And to look like a real hacker while doing it."
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Lunch Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Deep Dive IoT",
+      "title": "Talk",
+      "start": "14:00",
+      "end": "15:00",
+      "animator1": "Alexandre Brito, Accenture",
+      "day": 1,
+      "join": "https://zoom.us/j/98778437905",
+      "activityID": "iot",
+      "speaker1ID": "alexandrebrito",
+      "description": "Vem conhecer mais sobre Cloud, IoT, Machine Learning. Descobre que tipo de projectos e tecnologias implementamos nos nossos clientes."
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Sistemas de Larga Escala - O que esperar da indústria",
+      "title": "Talk",
+      "start": "15:00",
+      "end": "16:00",
+      "animator1": "Tiago Carção, Glovo",
+      "day": 1,
+      "join": "https://zoom.us/j/94515931976",
+      "activityID": "sistemaslargaescala",
+      "speaker1ID": "tiagocarcao",
+      "description": "Hoje em dia vivemos numa sociedade global, altamente conectada, always-on, com uma grande pegada digital. Estas características fazem de grande parte das aplicações e serviços que utilizamos hoje, sistemas que recebem um grande volume de tráfego e devem ser capazes de reagir às diferentes flutuações de horário, hábitos e gostos. Este é o panorama que encontramos quando entramos na indústria, e é com este contexto que temos que lidar pondo em prática os conceitos que aprendemos e muitos mais que vamos adquirindo de uma área em constante evolução. Com esta palestra, e explorando as minhas diferentes experiências e desafios em diferentes áreas, produtos, equipas e empresas, bem como alguns conceitos importantes para enfrentar estes desafios, gostava de clarificar possíveis dúvidas e oferecer alguma visão em primeira mão de como é trabalhar nesta indústria."
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Coffee Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Ubiwhere",
+      "title": "Pitch",
+      "start": "16:30",
+      "end": "16:45",
+      "join": "https://zoom.us/j/95635161884"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Vilt",
+      "title": "Pitch",
+      "start": "16:45",
+      "end": "17:00",
+      "join": "https://zoom.us/j/95854630311"
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Coffee Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "CV - Check Up",
+      "title": "Talk",
+      "start": "17:30",
+      "end": "18:30",
+      "animator1": "Juliana Carvalho, Unlimited Future",
+      "day": 1,
+      "join": "https://zoom.us/j/93616962948",
+      "activityID": "cv",
+      "speaker1ID": "julianacarvalho",
+      "description": "O CV sempre desempenhou um papel importante no processo de recrutamento, e é uma das ferramentas tradicionais do mercado de trabalho que funciona como um cartão de visita. Nesta talk, vamos dar-te algumas dicas sobre a maneira mais eficaz de apresentar a história da tua vida!"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Discord Master Race",
+      "title": "Activity",
+      "start": "21:00",
+      "end": "22:30"
+    }
+  ],
+  "25": [
+    {
+      "start": "9:30",
+      "end": "11:30",
+      "bigTitle": "DevOps: The Next Generation!",
+      "title": "Workshop Critical Software",
+      "animator1": "Eduardo Ribeiro",
+      "animator2": "Filipe Valpereiro",
+      "day": 2,
+      "join": "https://www.eventbrite.pt/e/142306567775",
+      "activityID": "devops",
+      "speaker1ID": "eduardoribeiro",
+      "speaker2ID": "filipevalpereiro",
+      "description": "DevOps é um conjunto de práticas que combina desenvolvimento de software e operações de TI. Tem como objetivo encurtar o ciclo de vida de desenvolvimento de sistemas e fornecer entrega contínua com alta qualidade de software. DevOps é complementar ao desenvolvimento de software Agile; vários aspectos do DevOps vieram da metodologia Agile. Nosso objetivo é esclarecer o que significa DevOps e o que consideramos ser a próxima geração."
+    },
+    {
+      "start": "9:30",
+      "end": "11:30",
+      "bigTitle": "Sabes que começou na API, I-I-I",
+      "title": "Workshop Primavera",
+      "animator1": "Nuno Santos",
+      "animator2": "Jorge Ribeiro",
+      "day": 2,
+      "join": "https://www.eventbrite.pt/e/142306096365",
+      "activityID": "api",
+      "speaker1ID": "nunosantos",
+      "speaker2ID": "jorgeribeiro",
+      "description": "Sabes o que é uma Web API? Quer saibas ou não, junta-te a nós e aceita o desafio de fazer a tua primeira integração com o Jasmin. Há prémio para o(s) vencedor(es)!"
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Coffee Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "O ecossistema tecnológico da mobilidade sustentável",
+      "title": "Talk",
+      "start": "12:00",
+      "end": "13:00",
+      "animator1": "André Dias, GoWithFlow",
+      "day": 2,
+      "join": "https://zoom.us/j/92963044285",
+      "activityID": "mobilidade",
+      "speaker1ID": "andredias",
+      "description": "A transição para uma mobilidade cada vez mais sustentável é acompanhada e acelerada pela introdução de vários paradigmas tecnológicos como IoT, Big Data ou Inteligência Artificial num ecossistema tecnológico complexo, mas com múltiplas oportunidades de novos serviços cada vez mais inteligentes e conectados."
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Lunch Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "STAYAWAY COVID - uma ferramenta de combate à pandemia",
+      "title": "Talk",
+      "start": "14:00",
+      "end": "15:00",
+      "animator1": "Francisco Maia, Keyruptive",
+      "day": 2,
+      "join": "https://zoom.us/j/92815361928",
+      "activityID": "stayaway",
+      "speaker1ID": "franciscomaia",
+      "description": "A STAYAWAY COVID é a aplicação de rastreio de contactos digital para Portugal. O seu desenho e aplicação foi alvo de imensas opiniões, críticas e elogios. Aproveitando a SEI como evento de diálogo tecnológico, olharemos para as decisões de desenho da STAYAWAY COVID e os desafios associados a lançar uma aplicação que ultrapassou os 3 Milhões de downloads."
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Developing software remotely and asynchronously",
+      "title": "Talk",
+      "start": "15:00",
+      "end": "16:00",
+      "animator1": "Gonçalo Silva, Doist",
+      "day": 2,
+      "join": "https://zoom.us/j/96091573369",
+      "activityID": "remote",
+      "speaker1ID": "goncalosilva",
+      "description": "Remote is here to stay. Increasingly, more companies realize it's the future of work. But with it, many best practices break down. Communicating and working synchronously is tricky when your team is distributed across the globe. Chit-chat is hard, pair programming is harder, mob programming is impossible. So, how exactly do you collaborate effectively? How do you raise the quality bar as a team? How do you share knowledge, and keep others in the loop? Are there established approaches from which we can draw inspiration?"
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Coffee Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "BNP Paribas",
+      "title": "Pitch",
+      "start": "16:30",
+      "end": "16:45",
+      "join": "https://zoom.us/j/95558350771"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "OutSystems",
+      "title": "Pitch",
+      "start": "16:45",
+      "end": "17:00",
+      "join": "https://zoom.us/j/99813190619"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Eurotux",
+      "title": "Pitch",
+      "start": "17:00",
+      "end": "17:15",
+      "join": "https://zoom.us/j/97273566550"
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Coffee Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Google HashCode",
+      "start": "17:30",
+      "end": "22:00"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Discord Social Meeting",
+      "title": "Activity",
+      "start": "22:00",
+      "end": "23:00"
+    }
+  ],
+  "26": [
+    {
+      "start": "9:30",
+      "end": "11:30",
+      "bigTitle": "Sensores e Algoritmos para Navegação Autónoma",
+      "title": "Workshop Bosch",
+      "animator1": "João Andrade",
+      "animator2": "João Ribeiro",
+      "animator3": "Luciano Sousa",
+      "day": 3,
+      "join": "https://www.eventbrite.pt/e/142306200677",
+      "activityID": "sensores",
+      "speaker1ID": "joaoandrade",
+      "speaker2ID": "joaoribeiro",
+      "speaker3ID": "lucianosousa",
+      "description": "A Condução autónoma será a força motriz da evolução tecnológica nos tempos vindouros. A Participação da Bosch neste sector é muito variada, com grande ênfase na sensorização e Percepção baseada nos dados recebidos. Neste workshop iremos dar uma vista alargada sobre os sensores existentes, intuição acerca das vantagens/desvantagens de cada um, como fundir os dados de sensores diferentes e que ferramentas são necessárias para quem gostaria de trabalhar neste tópico."
+    },
+    {
+      "start": "9:30",
+      "end": "11:30",
+      "bigTitle": "Deep Dive Salesforce",
+      "title": "Workshop Accenture",
+      "animator1": "Ricardo Villas-Boas",
+      "animator2": "Mauro Rosa",
+      "day": 3,
+      "join": "https://www.eventbrite.pt/e/142306300977",
+      "activityID": "deepdive",
+      "speaker1ID": "ricardovillasboas",
+      "speaker2ID": "maurorosa",
+      "description": "Vem conhecer Salesforce, que tipo de projectos e clientes desenvolvemos através de um demo."
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Coffee Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "The future is KPMG",
+      "title": "Talk",
+      "start": "12:00",
+      "end": "13:00",
+      "animator1": "Rui Gonçalves, KPMG",
+      "day": 3,
+      "join": "https://zoom.us/j/92904813802",
+      "activityID": "kpmg",
+      "speaker1ID": "ruigoncalo",
+      "description": "Vem descobrir a nossa área de IT Advisory e os projectos e soluções tecnológicas que desenvolvemos na KPMG. Lead the way, the journey is yours."
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Lunch Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "7 Conselhos de um Engenheiro Informático",
+      "title": "Talk",
+      "start": "14:00",
+      "end": "15:00",
+      "animator1": "Miguel Regedor, Freeletics",
+      "day": 3,
+      "join": "https://zoom.us/j/96001404725",
+      "activityID": "conselhos",
+      "speaker1ID": "miguelregedor",
+      "description": "Aquilo que eu gostava de saber quando terminei o curso."
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Como conseguires o teu emprego de sonho na Google",
+      "title": "Talk",
+      "start": "15:00",
+      "end": "16:00",
+      "animator1": "André Lago, Google",
+      "day": 3,
+      "join": "https://zoom.us/j/97088400810",
+      "activityID": "google",
+      "speaker1ID": "andrelago",
+      "description": "Se alguma vez sonhaste em trabalhar numa grande empresa como a Google, nesta talk vais descobrir como podes concretizar esse sonho! Vem aprender como te podes preparar para os processos de candidatura de empresas como a Google e descobre como é a sensação de trabalhar neste tipo de empresas. Depois desta talk, deverás ter tudo o que precisas para começar o teu caminho em direção ao emprego que sempre quiseste!"
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Coffee Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "KPMG",
+      "title": "Pitch",
+      "start": "16:30",
+      "end": "16:45",
+      "join": "https://zoom.us/j/91973060110"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Teleperformance",
+      "title": "Pitch",
+      "start": "16:45",
+      "end": "17:00",
+      "join": "https://zoom.us/j/95954519444"
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Coffee Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Closing Session and Prize Announcement",
+      "start": "18:00",
+      "end": "19:00",
+      "join": "https://zoom.us/j/96671922749"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Hackathon (42 hours)",
+      "start": "21:00",
+      "end": "24:00"
+    }
+  ],
+  "27": [
+    {
+      "main": "yes",
+      "bigTitle": "Hackathon (42 hours)",
+      "start": "00:00",
+      "end": "13:00"
+    },
+    {
+      "type": "CoffeeBreak",
+      "name": "Lunch Break"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Hackathon (42 hours)",
+      "start": "14:00",
+      "end": "24:00"
+    }
+  ],
+  "28": [
+    {
+      "main": "yes",
+      "bigTitle": "Hackathon (42 hours)",
+      "start": "00:00",
+      "end": "15:00"
+    },
+    {
+      "main": "yes",
+      "bigTitle": "Hackathon Final Pitches and Closing Session",
+      "start": "15:00",
+      "end": "17:00"
+    }
+  ]
+}

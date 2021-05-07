@@ -8,12 +8,8 @@ import NextNotClicked from "../images/next-not-clicked.svg";
 import PrevClicked from "../images/prev-clicked.svg";
 import NextClicked from "../images/next-clicked.svg";
 import "./clickable.css";
-import Day23 from "./agenda/day23";
-import Day24 from "./agenda/day24";
-import Day25 from "./agenda/day25";
-import Day26 from "./agenda/day26";
-import Day27 from "./agenda/day27";
-import Day28 from "./agenda/day28";
+import AgendaDay from "./agenda/agendaDay";
+import agenda from "../../data/agenda.json";
 
 let next = NextClicked;
 let prev = PrevNotClicked;
@@ -169,13 +165,7 @@ function AgendaCarousel(props) {
     },
     ...headerStyle().container,
   };
-  let contentStyle = {
-    display: "flex",
-    flexDirection: "row",
-    justifyContent: "space-between",
-    flexWrap: "wrap",
-    maxWidth: "450px",
-  };
+
   let [increment, setIncrement] = React.useState(props.initialDay);
   function navigate(param) {
     if (param === "next" && increment < carouselPages.length - 1)
@@ -219,12 +209,12 @@ function AgendaCarousel(props) {
   }
 
   let carouselPages = [
-    <Day23 />,
-    <Day24 />,
-    <Day25 />,
-    <Day26 />,
-    <Day27 />,
-    <Day28 />,
+    <AgendaDay activities={agenda[23]} />,
+    <AgendaDay activities={agenda[24]} />,
+    <AgendaDay activities={agenda[25]} />,
+    <AgendaDay activities={agenda[26]} />,
+    <AgendaDay activities={agenda[27]} />,
+    <AgendaDay activities={agenda[28]} />,
   ];
 
   let manageNavigation = () => {
